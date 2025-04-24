@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "Multi",
+    "Projects": [
+      {
+        "Path": "Tuto.RabbitMq.Web.csproj",
+        "Action": "Start",
+        "DebugTarget": "IIS Express"
+      },
+      {
+        "Path": "src\\Tuto.RabbitMq.Console\\Tuto.RabbitMq.Console.csproj",
+        "Action": "Start",
+        "DebugTarget": "Tuto.RabbitMq.Console"
+      }
+    ]
+  }
+]
